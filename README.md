@@ -1,5 +1,6 @@
 ## Hi, I'm Kien 👋
 
-- 🔭 Status: University of Toronto - Expected Graduate June 2026
+- 🎓 Status: University of Toronto - Expected Graduation June 2026
 - 📫 Contact: kien.nguyen9803@gmail.com
-- ⚡ Interests: ML Research & Application
+- ⚡ Interests: Machine Learning & Business
+- 🚀 Passionate about integrating AI into research, business, and everyday applications
